@@ -2,10 +2,10 @@
   "name": "abyonausar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zachyanez.github.io/abyonausar",
+  "homepage": "https://zachyanez.github.io/abyon",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZachYanez/abyonausar/"
+    "url": "https://github.com/ZachYanez/abyon/"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
