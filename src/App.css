@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.content-area{
+  min-height: 500px;
+  color: black !important;
+}
+
+.welcome {
+  color:white;
+}
+
+.staticLink{
+  color:white !important;
+  text-decoration: underline !important;
+}
+
+.textColorWhite{
+  color: white !important;
+}
+
+.image-container{
+  margin-left: 25%
+} 
+
+.homebackground{
+  background-image: url(../src/assets/fashion/Abyon3.jpg);
+}
+
+.corpPics{
+  margin: 5% 10% 5% 10%;
+  width: 80%;
+  align-items: center;
+}
+
+.Header{
+  font-size: 36pt;
+  /* background-color: transparent !important; */
+}
+
+.background{
+  background-color: black;
+}
